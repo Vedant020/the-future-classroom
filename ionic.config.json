@@ -1,0 +1,8 @@
+{
+  "name": "TheFutureClassroom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "9d43f08e"
+}
